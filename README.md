@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GETANGE
 - 👀 I’m interested in fronted development.
 - 🌱 I’m currently learning html and css.
-- 💞️ I’m looking to collaborate on javascript and react when i'll there.
+- 💞️ I’m looking to collaborate on javascript and react when i'll get there.
 - 📫 How to reach me ,,,email-emmanuelgetange48@gmail.com.
 
 <!---
