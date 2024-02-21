@@ -4,15 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a web developer
 -------------------
 
-Hello,once again I'm Emmanuel Getange a 22-year-old web developer passionate about creating user-friendly websites. With a background in computer science, I've spent two years refining my skills. Currently, I'm focused on mastering front-end development, particularly React. In my free time, I love exploring nature with my camera and traveling to experience diverse cultures. My goal is to become a well-rounded full-stack developer, contributing to impactful projects. I embrace challenges and value continuous learning. Let's connect and collaborate on exciting opportunities. Together, we can create meaningful digital experiences that make a difference in people's lives.
+🚀 Emerging MERN Stack Developer | Enthusiastic about crafting exceptional web experiences.
 
-* 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [My portfolio](http://getange.emmanuel.varcel)
-* ✉️  You can contact me at [emmanuelgetange48@gmail.com](mailto:emmanuelgetange48@gmail.com)
-* 🚀  I'm currently working on [My portfolio project](http://getange.emmanuel.varcel)
-* 🧠  I'm learning Javascript particularly Object Oriented Prohramming
-* 🤝  I'm open to collaborating on Web development projects
-* ⚡  I love singing...........don't tell anybody
+💻 Currently immersed in the realms of MongoDB, Express.js, React, and Node.js (MERN) stack development.
+
+🌐 Building applications not just to solve problems but to deliver delightful user experiences.
+
+📚 A perpetual learner, staying abreast of the latest tech trends and web development best practices.
+
+👨‍💻 Ready to collaborate and contribute to impactful projects. Let's create something meaningful together!
+
+🌱 Advancing skills in full-stack development with a keen eye on scalability and responsiveness.
+
+🔧 Tech Stack: React, Node.js, MongoDB, Express.js, HTML, CSS, JavaScript.
+
+📫 Connect with me! Reach out for collaboration, tech discussions, or just a friendly chat.
+
+#CodePassion #WebDevelopment #MERNStack #JavaScriptJourney
+
 
 <a href="https://www.twitter.com/Manu_Gets" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Manu_Gets?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
