@@ -5,13 +5,17 @@ I'm a web developer
 -------------------
 
 🌐 Full-Stack Web Developer | MERN Enthusiast | PERN Enthusiast
+
 🔥 Innovative & Detail-Oriented Developer, specializing in the MERN Stack to build high-performance, scalable, and responsive web applications.
 
 💡 Passionate about transforming ideas into reality with cutting-edge technologies and clean, maintainable code.
 
 ⚙️ Tech Arsenal:
-🚀 Frontend: React, HTML5, CSS3, JavaScript, Typescript
-💾 Backend: Node.js, Express.js, MongoDB, Postgres, Xata
+
+    🚀 Frontend: React, HTML5, CSS3, JavaScript, Typescript
+
+    💾 Backend: Node.js, Express.js, MongoDB, Postgres, Xata
+
 ✨ Constantly upskilling, exploring new technologies, and staying at the forefront of web development.
 
 💼 Let’s collaborate and create impactful, user-centric solutions!
