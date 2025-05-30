@@ -12,9 +12,9 @@ I'm a web developer
 
 ⚙️ Tech Arsenal:
 
-    🚀 Frontend: React, HTML5, CSS3, JavaScript, Typescript
+    🚀 Languages: JavaScript, Typescript, Python
 
-    💾 Backend: Node.js, Express.js, MongoDB, Postgres, Xata
+    💾 Backend: Node.js, Express.js, Hono.js, MongoDB, Postgres
 
 ✨ Constantly upskilling, exploring new technologies, and staying at the forefront of web development.
 
