@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a web developer
 -------------------
 
-🌐 Full-Stack Web Developer | MERN Enthusiast | PERN Enthusiast
+🌐 Software Engineer 🌊| MERN Enthusiast🍃 | PERN Enthusiast 🦈
 
-🔥 Innovative & Detail-Oriented Developer, specializing in the MERN Stack to build high-performance, scalable, and responsive web applications.
+🔥 Backend-focused Software Engineer passionate about building scalable APIs, robust architectures, and secure, high-performance systems for web and mobile platforms.
 
 💡 Passionate about transforming ideas into reality with cutting-edge technologies and clean, maintainable code.
 
@@ -19,8 +19,6 @@ I'm a web developer
 ✨ Constantly upskilling, exploring new technologies, and staying at the forefront of web development.
 
 💼 Let’s collaborate and create impactful, user-centric solutions!
-
-#CodePassion #WebDevelopment #MERNStack #JavaScriptJourney
 
 
 <a href="https://www.twitter.com/Manu_Gets" target="_blank" rel="noreferrer"><img
