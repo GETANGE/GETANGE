@@ -1,41 +1,47 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Getange
-========================================================================================================================================
+<h1 align="center">Hi there 👋 I'm Emmanuel Getange</h1>
 
-I'm a web developer
--------------------
+<p align="center">
+  <b>Backend-Focused Software Engineer</b> | MERN & PERN Stack Enthusiast | Clean Code Advocate
+</p>
 
-🌐 Software Engineer 🌊| MERN Enthusiast🍃 | PERN Enthusiast 🦈
+---
 
-🔥 Backend-focused Software Engineer passionate about building scalable APIs, robust architectures, and secure, high-performance systems for web and mobile platforms.
+### 🚀 About Me
 
-💡 Passionate about transforming ideas into reality with cutting-edge technologies and clean, maintainable code.
+🎯 Passionate about building **scalable APIs**, **robust architectures**, and **high-performance systems**.
 
-⚙️ Tech Arsenal:
+🛠️ Focused on shipping **backend-heavy** solutions for web & mobile platforms.
 
-    🚀 Languages: JavaScript, Typescript, Python
+🧠 Continuously learning, shipping, and improving — one commit at a time.
 
-    💾 Backend: Node.js, Express.js, Hono.js, MongoDB, Postgres
+---
 
-✨ Constantly upskilling, exploring new technologies, and staying at the forefront of web development.
+### 🧰 Tech Stack
 
-💼 Let’s collaborate and create impactful, user-centric solutions!
+- **Languages**: JavaScript | TypeScript | Python  
+- **Backend**: Node.js | Express | Hono  | FastAPI
+- **Databases**: MongoDB | PostgreSQL  
+- **Dev Tools**: Docker | Git | Postman | VSCode  
 
+---
 
-<a href="https://www.twitter.com/Manu_Gets" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Manu_Gets?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GETANGE&show_icons=true&hide_title=true&count_private=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GETANGE&theme=radical&hide_border=true" height="150"/>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/GETANGE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Emmanuel Getange" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Manu_Gets" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### 🌐 Let's Connect
 
-### Badges
+<p align="left">
+  <a href="https://github.com/GETANGE" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
+  <a href="https://www.linkedin.com/in/Emmanuel%20Getange" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+  <a href="https://twitter.com/Manu_Gets" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/GETANGE"><img src="https://github-readme-stats.vercel.app/api?username=GETANGE&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GETANGE's GitHub stats" /></a>
-
-<a href="http://www.github.com/GETANGE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GETANGE&stroke=22c55e&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=22c55e&currStreakLabel=0891b2&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
-
-
+> “Code hard, stay humble, build real.” 🔧
